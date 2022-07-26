@@ -42,3 +42,5 @@ Aşama 8:			     1           7
 Aşama 9:			     1           7
 				 0      3     5      8
 				      2         6      9
+
+www.patika.dev
