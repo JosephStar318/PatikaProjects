@@ -1,0 +1,9 @@
+##Bir Vektörün Bir Yüzeye İzdüşümü
+
+Elimizde bir V vektörü olsun. Bu vektör A noktasından H düzlemine doğru bir theta açısı ile bakmaktadır. Baktığı doğrultuda
+H yüzeyiyle temas ettiği nokta ise B olsun. Burada referans noktamız ve baz vektörlerimiz değişken olduğunu düşünülürse A noktasından
+H düzlemine olan vektörün izdüşüm vektörünü bulmak için skaler çarpım kullanılabilir. İlk olarak düzlemin normal ve teğet vektörüleri
+bulunur. Daha sonra yüzeyin normal vektörü ile A vektörünün skaler çarpımı normal yönündeki izdüşüm vektörünün genliğini verir. 
+Yüzeyin teğet vektörü ile A vektörünün skaler çarpımı teğet yönündeki izdüşüm vektörünün genliğini verir.
+
+www.patika.dev
