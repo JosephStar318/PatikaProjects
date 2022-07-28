@@ -1,0 +1,13 @@
+D:\Git-fork\PatikaProjects\ConsoleApplication11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.exe
+D:\Git-fork\PatikaProjects\ConsoleApplication11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.deps.json
+D:\Git-fork\PatikaProjects\ConsoleApplication11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.json
+D:\Git-fork\PatikaProjects\ConsoleApplication11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.dev.json
+D:\Git-fork\PatikaProjects\ConsoleApplication11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.dll
+D:\Git-fork\PatikaProjects\ConsoleApplication11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.pdb
+D:\Git-fork\PatikaProjects\ConsoleApplication11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.csproj.AssemblyReference.cache
+D:\Git-fork\PatikaProjects\ConsoleApplication11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfoInputs.cache
+D:\Git-fork\PatikaProjects\ConsoleApplication11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfo.cs
+D:\Git-fork\PatikaProjects\ConsoleApplication11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\Git-fork\PatikaProjects\ConsoleApplication11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.dll
+D:\Git-fork\PatikaProjects\ConsoleApplication11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.pdb
+D:\Git-fork\PatikaProjects\ConsoleApplication11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.genruntimeconfig.cache
