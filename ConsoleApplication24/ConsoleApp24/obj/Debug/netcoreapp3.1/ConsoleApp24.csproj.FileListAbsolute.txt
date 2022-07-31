@@ -1,0 +1,13 @@
+D:\Git-fork\PatikaProjects\ConsoleApplication24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.exe
+D:\Git-fork\PatikaProjects\ConsoleApplication24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.deps.json
+D:\Git-fork\PatikaProjects\ConsoleApplication24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.runtimeconfig.json
+D:\Git-fork\PatikaProjects\ConsoleApplication24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.runtimeconfig.dev.json
+D:\Git-fork\PatikaProjects\ConsoleApplication24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.dll
+D:\Git-fork\PatikaProjects\ConsoleApplication24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.pdb
+D:\Git-fork\PatikaProjects\ConsoleApplication24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.csproj.AssemblyReference.cache
+D:\Git-fork\PatikaProjects\ConsoleApplication24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.AssemblyInfoInputs.cache
+D:\Git-fork\PatikaProjects\ConsoleApplication24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.AssemblyInfo.cs
+D:\Git-fork\PatikaProjects\ConsoleApplication24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.csproj.CoreCompileInputs.cache
+D:\Git-fork\PatikaProjects\ConsoleApplication24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.dll
+D:\Git-fork\PatikaProjects\ConsoleApplication24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.pdb
+D:\Git-fork\PatikaProjects\ConsoleApplication24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.genruntimeconfig.cache
