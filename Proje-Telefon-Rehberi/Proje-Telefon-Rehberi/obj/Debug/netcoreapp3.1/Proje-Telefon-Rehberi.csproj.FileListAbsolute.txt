@@ -1,0 +1,13 @@
+D:\Git-fork\PatikaProjects\Proje-Telefon-Rehberi\Proje-Telefon-Rehberi\bin\Debug\netcoreapp3.1\Proje-Telefon-Rehberi.exe
+D:\Git-fork\PatikaProjects\Proje-Telefon-Rehberi\Proje-Telefon-Rehberi\bin\Debug\netcoreapp3.1\Proje-Telefon-Rehberi.deps.json
+D:\Git-fork\PatikaProjects\Proje-Telefon-Rehberi\Proje-Telefon-Rehberi\bin\Debug\netcoreapp3.1\Proje-Telefon-Rehberi.runtimeconfig.json
+D:\Git-fork\PatikaProjects\Proje-Telefon-Rehberi\Proje-Telefon-Rehberi\bin\Debug\netcoreapp3.1\Proje-Telefon-Rehberi.runtimeconfig.dev.json
+D:\Git-fork\PatikaProjects\Proje-Telefon-Rehberi\Proje-Telefon-Rehberi\bin\Debug\netcoreapp3.1\Proje-Telefon-Rehberi.dll
+D:\Git-fork\PatikaProjects\Proje-Telefon-Rehberi\Proje-Telefon-Rehberi\bin\Debug\netcoreapp3.1\Proje-Telefon-Rehberi.pdb
+D:\Git-fork\PatikaProjects\Proje-Telefon-Rehberi\Proje-Telefon-Rehberi\obj\Debug\netcoreapp3.1\Proje-Telefon-Rehberi.csproj.AssemblyReference.cache
+D:\Git-fork\PatikaProjects\Proje-Telefon-Rehberi\Proje-Telefon-Rehberi\obj\Debug\netcoreapp3.1\Proje-Telefon-Rehberi.AssemblyInfoInputs.cache
+D:\Git-fork\PatikaProjects\Proje-Telefon-Rehberi\Proje-Telefon-Rehberi\obj\Debug\netcoreapp3.1\Proje-Telefon-Rehberi.AssemblyInfo.cs
+D:\Git-fork\PatikaProjects\Proje-Telefon-Rehberi\Proje-Telefon-Rehberi\obj\Debug\netcoreapp3.1\Proje-Telefon-Rehberi.csproj.CoreCompileInputs.cache
+D:\Git-fork\PatikaProjects\Proje-Telefon-Rehberi\Proje-Telefon-Rehberi\obj\Debug\netcoreapp3.1\Proje-Telefon-Rehberi.dll
+D:\Git-fork\PatikaProjects\Proje-Telefon-Rehberi\Proje-Telefon-Rehberi\obj\Debug\netcoreapp3.1\Proje-Telefon-Rehberi.pdb
+D:\Git-fork\PatikaProjects\Proje-Telefon-Rehberi\Proje-Telefon-Rehberi\obj\Debug\netcoreapp3.1\Proje-Telefon-Rehberi.genruntimeconfig.cache
