@@ -1,0 +1,13 @@
+D:\Git-fork\PatikaProjects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\bin\Debug\netcoreapp3.1\Koleksiyonlar-Soru-1.exe
+D:\Git-fork\PatikaProjects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\bin\Debug\netcoreapp3.1\Koleksiyonlar-Soru-1.deps.json
+D:\Git-fork\PatikaProjects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\bin\Debug\netcoreapp3.1\Koleksiyonlar-Soru-1.runtimeconfig.json
+D:\Git-fork\PatikaProjects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\bin\Debug\netcoreapp3.1\Koleksiyonlar-Soru-1.runtimeconfig.dev.json
+D:\Git-fork\PatikaProjects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\bin\Debug\netcoreapp3.1\Koleksiyonlar-Soru-1.dll
+D:\Git-fork\PatikaProjects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\bin\Debug\netcoreapp3.1\Koleksiyonlar-Soru-1.pdb
+D:\Git-fork\PatikaProjects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\netcoreapp3.1\Koleksiyonlar-Soru-1.csproj.AssemblyReference.cache
+D:\Git-fork\PatikaProjects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\netcoreapp3.1\Koleksiyonlar-Soru-1.AssemblyInfoInputs.cache
+D:\Git-fork\PatikaProjects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\netcoreapp3.1\Koleksiyonlar-Soru-1.AssemblyInfo.cs
+D:\Git-fork\PatikaProjects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\netcoreapp3.1\Koleksiyonlar-Soru-1.csproj.CoreCompileInputs.cache
+D:\Git-fork\PatikaProjects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\netcoreapp3.1\Koleksiyonlar-Soru-1.dll
+D:\Git-fork\PatikaProjects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\netcoreapp3.1\Koleksiyonlar-Soru-1.pdb
+D:\Git-fork\PatikaProjects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\netcoreapp3.1\Koleksiyonlar-Soru-1.genruntimeconfig.cache
