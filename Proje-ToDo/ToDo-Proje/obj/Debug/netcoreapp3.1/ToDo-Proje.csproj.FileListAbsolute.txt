@@ -1,0 +1,13 @@
+D:\Git-fork\PatikaProjects\Proje-ToDo\ToDo-Proje\bin\Debug\netcoreapp3.1\ToDo-Proje.exe
+D:\Git-fork\PatikaProjects\Proje-ToDo\ToDo-Proje\bin\Debug\netcoreapp3.1\ToDo-Proje.deps.json
+D:\Git-fork\PatikaProjects\Proje-ToDo\ToDo-Proje\bin\Debug\netcoreapp3.1\ToDo-Proje.runtimeconfig.json
+D:\Git-fork\PatikaProjects\Proje-ToDo\ToDo-Proje\bin\Debug\netcoreapp3.1\ToDo-Proje.runtimeconfig.dev.json
+D:\Git-fork\PatikaProjects\Proje-ToDo\ToDo-Proje\bin\Debug\netcoreapp3.1\ToDo-Proje.dll
+D:\Git-fork\PatikaProjects\Proje-ToDo\ToDo-Proje\bin\Debug\netcoreapp3.1\ToDo-Proje.pdb
+D:\Git-fork\PatikaProjects\Proje-ToDo\ToDo-Proje\obj\Debug\netcoreapp3.1\ToDo-Proje.csproj.AssemblyReference.cache
+D:\Git-fork\PatikaProjects\Proje-ToDo\ToDo-Proje\obj\Debug\netcoreapp3.1\ToDo-Proje.AssemblyInfoInputs.cache
+D:\Git-fork\PatikaProjects\Proje-ToDo\ToDo-Proje\obj\Debug\netcoreapp3.1\ToDo-Proje.AssemblyInfo.cs
+D:\Git-fork\PatikaProjects\Proje-ToDo\ToDo-Proje\obj\Debug\netcoreapp3.1\ToDo-Proje.csproj.CoreCompileInputs.cache
+D:\Git-fork\PatikaProjects\Proje-ToDo\ToDo-Proje\obj\Debug\netcoreapp3.1\ToDo-Proje.dll
+D:\Git-fork\PatikaProjects\Proje-ToDo\ToDo-Proje\obj\Debug\netcoreapp3.1\ToDo-Proje.pdb
+D:\Git-fork\PatikaProjects\Proje-ToDo\ToDo-Proje\obj\Debug\netcoreapp3.1\ToDo-Proje.genruntimeconfig.cache
